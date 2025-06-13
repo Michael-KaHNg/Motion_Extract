@@ -11,6 +11,7 @@ Need:
 #########################################################################################################
 # Motion_Extract with ezTrack (Freezing detection) (modified to also detect intensity changes in LED timestamps)
 (doi: 10.1038/s41598-019-56408-9.)
+
 #Use ez Track environmnet (script:  Ka_Step_1_MotionExtract.ipynb)
 
 
