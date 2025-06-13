@@ -25,6 +25,9 @@ Need:
 #########################################################################################################
 # Align with Ca Imaging data
 
+#Use ka_Ca_Imaging environmnet (script:  Ka_Step_2_Alignment_W_5_SecondPulse_Plus_WholeSession.ipynb)
+
+![Fig_3](https://github.com/user-attachments/assets/cbc9cdf1-39b5-4642-ab73-84040741f6ed)
 
 
 #########################################################################################################
