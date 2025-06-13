@@ -23,7 +23,7 @@ Use ez Track environmnet (script:  Ka_Step_1_MotionExtract.ipynb)
 
 
 #########################################################################################################
-# Align with Ca Imaging data
+# Align with Ca Imaging data (5s + whole session alignment, result locomotion trace will be in 20 frames/s)
 
 Use ka_Ca_Imaging environmnet (script:  Ka_Step_2_Alignment_W_5_SecondPulse_Plus_WholeSession.ipynb)
 
