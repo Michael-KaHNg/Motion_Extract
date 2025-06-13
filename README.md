@@ -32,7 +32,7 @@ Use ka_Ca_Imaging environmnet (script:  Ka_Step_2_Alignment_W_5_SecondPulse_Plus
 1. Look at the length of the Imaging file (.csv) and input that length.  
 2. Make sure the duration of 5s pulse (in frames) falls within the two red line AND the number of 5s pulse is 481 (for a 40 minute session)
 3. Session onset and End is correctly identified
-4. 5s pulses are correctly identified
+4. The 5s pulses are correctly identified
 5. Infared port activities are correctly identified 
 
 ![Fig_3](https://github.com/user-attachments/assets/407265e9-cac0-463e-96ce-4a0827608a90)
