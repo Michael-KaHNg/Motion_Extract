@@ -46,6 +46,7 @@ Use ka_Ca_Imaging environmnet (script:  Ka_Step_2_Alignment_W_5_SecondPulse_Plus
 Use ka_Ca_Imaging environmnet (script:  Ka_Step_4_Threshold_and _BinnedTime.ipynb)
 
 1.  Look at the video file (.mp4) and see the first time when the session indicator light turns on, put the time (in seconds) to the script
+   (In this case,  the Ca imaging session starts at 45 seconds).  This is only important for labeling time for manual verifications, but it is not important for the     actual Ca Imgaging analysis.  
 
 ![Fig_4](https://github.com/user-attachments/assets/fd7b6963-20b6-4034-a9ba-c0003bb28ed1)
 
