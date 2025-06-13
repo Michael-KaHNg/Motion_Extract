@@ -2,6 +2,7 @@
 # Motion Analysis for Ca Imaging 
 
 Need:
+
 0. Install ezTrack (https://github.com/denisecailab/ezTrack)
 1. Overhead view of a video (.mp4)
 2. Fully pre-processed cell data that has been behaviorally aligned with arduino data (.csv)
