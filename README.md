@@ -43,6 +43,10 @@ Use ka_Ca_Imaging environmnet (script:  Ka_Step_2_Alignment_W_5_SecondPulse_Plus
 #########################################################################################################
 # Re-threshold locomotion data 
 
+Use ka_Ca_Imaging environmnet (script:  Ka_Step_4_Threshold_and _BinnedTime.ipynb)
+
+![Fig_4](https://github.com/user-attachments/assets/fd7b6963-20b6-4034-a9ba-c0003bb28ed1)
+
 
 
 #########################################################################################################
