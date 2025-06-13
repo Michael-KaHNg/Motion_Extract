@@ -27,7 +27,16 @@ Use ez Track environmnet (script:  Ka_Step_1_MotionExtract.ipynb)
 
 Use ka_Ca_Imaging environmnet (script:  Ka_Step_2_Alignment_W_5_SecondPulse_Plus_WholeSession.ipynb)
 
-![Fig_3](https://github.com/user-attachments/assets/cbc9cdf1-39b5-4642-ab73-84040741f6ed)
+* Adjust thresholds as needed (the LED signal amplitdue is influenced by the signal extraction from the previous step)
+
+1. Make sure the duration of 5s pulse (in frames) falls within the two red line AND the number of 5s pulse is 481 (for a 40 minute session)
+2. Session onset is correctly identified
+3. Session End is correctly identified
+4. 5s pulses are correctly identified
+5. Infared port activities are correctly identified 
+
+![Fig_3](https://github.com/user-attachments/assets/51e3d2f5-a339-4c1c-bb88-d005ee0af9bb)
+
 
 
 #########################################################################################################
