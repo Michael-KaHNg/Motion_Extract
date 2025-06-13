@@ -35,7 +35,8 @@ Use ka_Ca_Imaging environmnet (script:  Ka_Step_2_Alignment_W_5_SecondPulse_Plus
 4. 5s pulses are correctly identified
 5. Infared port activities are correctly identified 
 
-![Fig_3](https://github.com/user-attachments/assets/51e3d2f5-a339-4c1c-bb88-d005ee0af9bb)
+![Fig_3](https://github.com/user-attachments/assets/407265e9-cac0-463e-96ce-4a0827608a90)
+
 
 
 
