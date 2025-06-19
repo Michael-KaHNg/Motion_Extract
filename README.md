@@ -3,7 +3,7 @@
 
 Need:
 
-0. Install ezTrack (https://github.com/denisecailab/ezTrack)
+0. Install ezTrack (https://github.com/denisecailab/ezTrack),  replace the "FreezeAnalysis_Functions.py" file with the one here (VERY important,  this one has been modified to detect pixel intensity changes)
 1. Overhead view of a video (.mp4)
 2. Fully pre-processed cell data that has been behaviorally aligned with arduino data (.csv)
 
